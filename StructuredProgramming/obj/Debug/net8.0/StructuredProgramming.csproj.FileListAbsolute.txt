@@ -1,0 +1,14 @@
+C:\Users\franc\Development\MyAppSpl\StructuredProgramming\bin\Debug\net8.0\StructuredProgramming.exe
+C:\Users\franc\Development\MyAppSpl\StructuredProgramming\bin\Debug\net8.0\StructuredProgramming.deps.json
+C:\Users\franc\Development\MyAppSpl\StructuredProgramming\bin\Debug\net8.0\StructuredProgramming.runtimeconfig.json
+C:\Users\franc\Development\MyAppSpl\StructuredProgramming\bin\Debug\net8.0\StructuredProgramming.dll
+C:\Users\franc\Development\MyAppSpl\StructuredProgramming\bin\Debug\net8.0\StructuredProgramming.pdb
+C:\Users\franc\Development\MyAppSpl\StructuredProgramming\obj\Debug\net8.0\StructuredProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Development\MyAppSpl\StructuredProgramming\obj\Debug\net8.0\StructuredProgramming.AssemblyInfoInputs.cache
+C:\Users\franc\Development\MyAppSpl\StructuredProgramming\obj\Debug\net8.0\StructuredProgramming.AssemblyInfo.cs
+C:\Users\franc\Development\MyAppSpl\StructuredProgramming\obj\Debug\net8.0\StructuredProgramming.csproj.CoreCompileInputs.cache
+C:\Users\franc\Development\MyAppSpl\StructuredProgramming\obj\Debug\net8.0\StructuredProgramming.dll
+C:\Users\franc\Development\MyAppSpl\StructuredProgramming\obj\Debug\net8.0\refint\StructuredProgramming.dll
+C:\Users\franc\Development\MyAppSpl\StructuredProgramming\obj\Debug\net8.0\StructuredProgramming.pdb
+C:\Users\franc\Development\MyAppSpl\StructuredProgramming\obj\Debug\net8.0\StructuredProgramming.genruntimeconfig.cache
+C:\Users\franc\Development\MyAppSpl\StructuredProgramming\obj\Debug\net8.0\ref\StructuredProgramming.dll

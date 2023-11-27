@@ -1,0 +1,14 @@
+C:\Users\franc\Development\MyAppSpl\MessagesDataTypes\bin\Debug\net8.0\MessagesDataTypes.exe
+C:\Users\franc\Development\MyAppSpl\MessagesDataTypes\bin\Debug\net8.0\MessagesDataTypes.deps.json
+C:\Users\franc\Development\MyAppSpl\MessagesDataTypes\bin\Debug\net8.0\MessagesDataTypes.runtimeconfig.json
+C:\Users\franc\Development\MyAppSpl\MessagesDataTypes\bin\Debug\net8.0\MessagesDataTypes.dll
+C:\Users\franc\Development\MyAppSpl\MessagesDataTypes\bin\Debug\net8.0\MessagesDataTypes.pdb
+C:\Users\franc\Development\MyAppSpl\MessagesDataTypes\obj\Debug\net8.0\MessagesDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Development\MyAppSpl\MessagesDataTypes\obj\Debug\net8.0\MessagesDataTypes.AssemblyInfoInputs.cache
+C:\Users\franc\Development\MyAppSpl\MessagesDataTypes\obj\Debug\net8.0\MessagesDataTypes.AssemblyInfo.cs
+C:\Users\franc\Development\MyAppSpl\MessagesDataTypes\obj\Debug\net8.0\MessagesDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\franc\Development\MyAppSpl\MessagesDataTypes\obj\Debug\net8.0\MessagesDataTypes.dll
+C:\Users\franc\Development\MyAppSpl\MessagesDataTypes\obj\Debug\net8.0\refint\MessagesDataTypes.dll
+C:\Users\franc\Development\MyAppSpl\MessagesDataTypes\obj\Debug\net8.0\MessagesDataTypes.pdb
+C:\Users\franc\Development\MyAppSpl\MessagesDataTypes\obj\Debug\net8.0\MessagesDataTypes.genruntimeconfig.cache
+C:\Users\franc\Development\MyAppSpl\MessagesDataTypes\obj\Debug\net8.0\ref\MessagesDataTypes.dll
