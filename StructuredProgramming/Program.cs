@@ -18,7 +18,7 @@ namespace StructuredProgramming
                 Console.WriteLine("Hola, soy tu nueva mini calculadora.");
                 numberOperator = GetIntDataUser("Ingresa una opcion: (1. suma/ 2. resta/ 3. multiplicacion/ 4. salir)");
 
-                switch(numberOperator)
+                switch (numberOperator)
                 {
                     case 1:
                         Console.WriteLine("SUMA");
@@ -42,7 +42,7 @@ namespace StructuredProgramming
                         Console.WriteLine("Seguro que quieres salir? [s] - [n]");
                         response = Console.ReadLine();
 
-                        if(response == "s" || response == "S")
+                        if (response == "s" || response == "S")
                         {
                             newOperation = false;
                         }
@@ -57,12 +57,12 @@ namespace StructuredProgramming
             int data = 0;
             bool isValidData = false;
 
-            while(!isValidData)
+            while (!isValidData)
             {
                 Console.WriteLine(message);
                 userData = Console.ReadLine();
 
-                if(!int.TryParse(userData, out data))
+                if (!int.TryParse(userData, out data))
                 {
                     Console.WriteLine("El dato que ingresaste no es valido");
                 }
